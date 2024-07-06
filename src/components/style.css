@@ -1,0 +1,19 @@
+@keyframes star-animation {
+    from {
+      transform: translateY(0);
+    }
+    to {
+      transform: translateY(-2000px);
+    }
+  }
+  
+  .star {
+    width: 2px;
+    height: 2px;
+    background: white;
+    border-radius: 50%; /* Make the stars round */
+    opacity: 0.8;
+    animation: star-animation 50s linear infinite;
+  }
+  
+  

@@ -1,0 +1,29 @@
+[{
+  "id": 1,
+  "degree": "B.Tech in Computer science",
+  "university": "Azad institue of engineering and technology,Lucknow ,U.P.,India",
+  "timePeriod": "March 2022 - May 2025",
+  "img": "images/azad-logo-icon.jpg"
+},
+{
+  "id": 2,
+  "degree": "Diploma in Mechnical Production",
+  "university": "Lucknow polytechnic ,Lucknow,U.P.,India",
+  "timePeriod": "March 2019 - Aug 2021",
+  "img": "images/pick.png"
+},
+{
+  "id": 3,
+  "degree": "Senior Secondary",
+  "university": "R.k Mission school ,Ballia U.P",
+  "timePeriod": "March 2017 - August 2018",
+  "img": "images/pick.png"
+},
+{
+  "id": 4,
+  "degree": "High School",
+  "university": "Manasthali Education center ,Ballia U.P",
+  "timePeriod": "March 2015 - August 2016",
+  "img": "images/pick.png"
+}
+]

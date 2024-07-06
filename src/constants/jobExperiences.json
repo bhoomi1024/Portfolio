@@ -1,0 +1,18 @@
+[
+  {
+    "id": "0",
+    "title": "Full Stack Developer",
+    "company": "Reach Creative",
+    "description": "As a MERN stack developer, my expertise is rooted in hands-on project experience rather than formal industry roles. Through dedicated self-study and project-driven learning, I have mastered MongoDB for efficient data storage, Express.js for robust backend development, React for creating dynamic user interfaces, and Node.js for scalable server-side execution. These projects have not only deepened my technical proficiency but also sharpened my problem-solving skills and ability to collaborate effectively in multidisciplinary teams. I am enthusiastic about applying my practical knowledge to real-world challenges and contributing to innovative solutions in a professional setting.",
+    "timePeriod": "November 2023 - March 2024",
+    "img": "images/reach.jpg"
+  },
+  {
+    "id": "1",
+    "title": "Inter Software Developer",
+    "company": "HclTech",
+    "description": " Currently, I am gaining valuable experience as an intern software developer at HCL Technologies, where I am immersed in a dynamic learning environment focused on honing my skills in software development. Collaborating with experienced professionals, I am actively involved in diverse projects that involve coding, debugging, and testing functionalities. This internship has provided me with hands-on experience in utilizing industry-standard tools and frameworks, enhancing my proficiency in problem-solving and contributing effectively to team objectives. I am eager to leverage this experience to further develop my career in software development and contribute meaningfully to future projects.",
+    "timePeriod": "July 2024 - Present",
+    "img": "images/hcl1.png"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "id": "1",
+    "title": "BhoomiEstate",
+    "description": "Develop a dynamic and responsive real estate website, BhoomiEstate, using the MERN stack (MongoDB, Express.js, React, Node.js). This project will encompass both frontend and backend development, providing a seamless user experience for property listings, searches, and interactions. Key features include secure user authentication with JWT, detailed property listings with filtering options, a property details page with comprehensive information and contact forms, and personalized dashboards for users. Agents can manage listings, while buyers can save properties. The admin panel will enable management of users, properties, and content, along with analytics. The frontend will be styled using Tailwind CSS for a modern and consistent look, ensuring full responsiveness on all devices. The backend will handle RESTful API development and data management with MongoDB. This project aims to deliver a comprehensive, high-quality real estate platform with a focus on performance and user experience.",
+    "thumbnail": "projects/BhoomiEstate.png",
+    "deployed": "https://bhoomiestate.onrender.com/",
+    "github": "https://github.com/bhoomi1024/BhoomiEstate",
+    "date": "April 2024"
+  },
+  {
+    "id": "2",
+    "title": "Mapty",
+    "description": "Develop a map application using Vanilla JavaScript that allows users to log and manage their workouts, specifically running and cycling. This application will leverage the Geolocation API to obtain the user's current location and the Leaflet library to display an interactive map. Users can add workout details by clicking on the map, entering information such as distance, duration, and type (running or cycling). Each workout will be marked on the map with custom icons for easy differentiation. The application will store workout data in the browser's local storage, ensuring that the information persists across sessions. Additionally, it will feature a sidebar listing all workouts, enabling users to view and manage their logs, including editing and deleting entries. The UI will be designed to be user-friendly and responsive, ensuring a seamless experience across different devices. This project aims to provide a comprehensive and intuitive platform for fitness enthusiasts to track and visualize their running and cycling activities.",
+    "thumbnail": "projects/Mapty.png",
+    "github": "https://github.com/bhoomi1024/Mapty-project",
+    "deployed": "https://mapty-1024.netlify.app/",
+    "date": "August 2023"
+  },
+  {
+    "id": "3",
+    "title": "BookStore",
+    "description": "Built using the MERN stack, this dynamic e-commerce platform for book enthusiasts integrates robust features such as user authentication, seamless product browsing, and responsive design across all devices. Leveraging MongoDB for data storage, Express.js for backend API development, React for the frontend interface, and Node.js for server-side execution, the platform ensures a secure and efficient user experience. Users can register, login securely, and browse a diverse range of books categorized by genre, author, and popularity. Each book listing includes detailed descriptions, reviews, and ratings, facilitating informed purchasing decisions. The responsive design, implemented with CSS frameworks like Bootstrap or Tailwind CSS, guarantees optimal usability on desktops, tablets, and mobile devices, enhancing accessibility and user engagement. This project aims to deliver a streamlined and intuitive online shopping experience tailored specifically for book lovers.",
+    "thumbnail": "projects/BookStore.png",
+    "github": "https://github.com/missatrox44/baesii",
+    "deployed": "https://loversnotfighters.vercel.app/",
+    "date": "March 2024"
+  },
+  {
+    "id": "4",
+    "title": "FoodieBuddy",
+    "description": "Foodie Buddy is a comprehensive food delivery website developed using the MERN stack (MongoDB, Express.js, React, Node.js). This platform allows users to browse a variety of restaurants and cuisines, place orders securely, and track delivery status in real-time. Featuring robust user authentication and authorization systems, along with a responsive frontend design for seamless access on any device, Foodie Buddy ensures a user-friendly experience. Restaurant owners can manage menus and orders through a dedicated dashboard, while customers enjoy personalized recommendations and easy checkout options. With integrated payment gateways and efficient order management, Foodie Buddy aims to revolutionize the food delivery experience for both users and vendors alike.",
+    "thumbnail": "projects/FoodieBuddie.png",
+    "github": "https://github.com/bhoomi1024/fooddelivery",
+    "deployed": "https://github.com/bhoomi1024/fooddelivery",
+    "date": "July 2024"
+  },
+  {
+    "id": "5",
+    "title": "OHS Broncho Band",
+    "description": "This project involved a comprehensive refactoring of the Odessa High School Broncho Band's website. It was redesigned to be mobile responsive, while also updating images and links for a more appealing and user-friendly experience. New pages were added, working in close collaboration with the band director to ensure that the final design echoed her vision and faithfully represented the values of the OHS Broncho Band. The website was expertly crafted using tools from WiX and continues to be a work in progress, reflecting the ever-evolving spirit of the band program.",
+    "thumbnail": "projects/odessa_band_screenshot.png",
+    "deployed": "https://www.odessaband.org/",
+    "date": "October 2022"
+  },
+  {
+    "id": "6",
+    "title": "Travel 2 It",
+    "description": "Introducing Travel 2 It – your next must-have travel companion, masterfully crafted during the 6-week Chingu Voyage 41 journey. Dive into a seamless trip-planning experience, where organizing is as simple as creating editable stacks and cards. From jotting down must-visit spots to curating detailed plans, each card is your canvas. Not set on the order? Fluidly drag and drop cards or entire stacks until it feels just right. Enjoy our elegant Dark & Light Modes. Sharing your journeys with loved ones via Email, Facebook, or Whatsapp is available now! Make every trip a masterpiece with Travel 2 It.",
+    "thumbnail": "projects/travel_2_it.png",
+    "github": "https://github.com/bhoomi1024",
+    "deployed": "https://cosmic-gnome-4fc624.netlify.app/",
+    "date": "December 2022"
+  },
+  {
+    "id": "7",
+    "title": "Pomodoro Timer",
+    "description": "The fruit of a dynamic week-long paired programming challenge, curated by Chingu. Crafted by two efficiency enthusiasts, our app breathes fresh life into the revered Pomodoro technique that we passionately incorporate into our daily routines. Taking inspiration, yet adding our flair, we've not only cloned a popular app but have enhanced it with a unique \"Developer Mode\". This speedy mode whizzes through time, allowing users to swiftly experience functionalities. Enhance your productivity cycles with the Pomodoro Timer, and witness time-management in a whole new light!",
+    "thumbnail": "projects/pomodoro_timer.png",
+    "github": "https://github.com/bhoomi1024",
+    "deployed": "https://missatrox44.github.io/pomodoro-clock/",
+    "date": "March 2023"
+  },
+  {
+    "id": "8",
+    "title": "Love Thy Selfie",
+    "description": "Love Thy Selfie is an intuitive, mobile-first React application designed to digitally transform a local photo booth business. Embodying the spirit of 'Love Thy Selfie', this platform offers users a comprehensive overview of the diverse services provided, including vivid picture examples, and authentic customer reviews. It also showcases the geographic service areas to help customers understand their reach. One of the key features is a seamlessly integrated contact form powered by Email.js, enabling customers to easily inquire about booking opportunities. With its user-friendly interface and responsive design, the Love Thy Selfie website effectively brings the unique essence of the photo booth experience online, and at the fingertips of potential customers.",
+    "thumbnail": "projects/love_thy_selfie.png",
+    "github": "https://github.com/bhoomi1024",
+    "deployed": "https://www.lovethyselfiephotobooth.com/",
+    "date": "May 2023"
+  },
+  {
+    "id": "9",
+    "title": "Server Rotation",
+    "description": "Crab City Server Rotation is a modern and efficient solution designed to streamline table rotations for a local restaurant. Initially, the restaurant managed rotations using a manual whiteboard system which proved to be challenging during peak hours. To provide a more optimized solution, my colleagues and I developed this React web app. At its core, the application leverages the capabilities of Firebase's Realtime Database to ensure that table rotation data is managed in real-time. This guarantees that the staff has an up-to-date view of table statuses, leading to improved customer service and streamlined operations. Furthermore, we incorporated Tailwind CSS to ensure the user interface is both intuitive and aesthetically pleasing. While the provided link showcases the demo, the actual implementation for the restaurant remains private, complete with its own secure login.",
+    "thumbnail": "projects/crab-city.png",
+    "github": "https://github.com/bhoomi1024",
+    "deployed": "https://crab-city.vercel.app/",
+    "date": "October 2023"
+  },
+  {
+    "id": "10",
+    "title": "SEB Events",
+    "description": "A hands-on exploration of Next.js routing intricacies, SEBevents exemplifies file-to-route translations, slug routes, and single parameter routing. Seamlessly merging React components with Next.js page structures, the application features an intuitive event browsing system. Users can view spotlighted events, delve into detailed event cards, or filter events by month and year. Incorporating the useRouter hook, the app facilitates programmatic navigation and effortlessly decodes URL-embedded data. With robust error-handling mechanisms, SEBevents promises a smooth user experience.",
+    "thumbnail": "projects/seb-events.png",
+    "github": "https://github.com/bhoomi1024",
+    "deployed": "https://seb-events.vercel.app/",
+    "date": "October 2023"
+  }
+]
